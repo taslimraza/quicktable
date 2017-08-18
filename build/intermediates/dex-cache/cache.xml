@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.0-rc1/28ee23fb96a5499ec77db3033b53193521fb8ae6/smack-core-4.1.0-rc1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="28ee23fb96a5499ec77db3033b53193521fb8ae6">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-core-4.1.0-rc1_bea38f4c9753dcf3d2b54d2559da06735adcf46b/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_cf7f0bd3c93d50a89092c59dbfb5b32304cbc9ea/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.12/ecfc6f73a841c4c3c653b59651a3f9d5f1286469/jackson-core-asl-1.9.12.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ecfc6f73a841c4c3c653b59651a3f9d5f1286469">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-asl-1.9.12_982a59da20f4a00d1185bac5ee3cf4226f029114/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.mod4j.org.apache.commons/lang/2.1.0/c2200288f7c9dd4f9e8b647a95290f978362b567/lang-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2200288f7c9dd4f9e8b647a95290f978362b567">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/lang-2.1.0_8ac41b7b20af4b6594de79c3425467b4ebe80812/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.11.0_d1fd61736e32e94c5693cad016057ffac3c0a891/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.11.0_0ce9602ffddef3dd9b8128d11c23151d79a70c32/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_ed918fa6c1e8bf126a5c1bafb79a62b03688a266/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/android-studio/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_7e94011819428241a332da77bb1df096ac75f421/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.12/8b290aae44213e2f6da00c07af59b0d442068f4d/jackson-mapper-asl-1.9.12.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8b290aae44213e2f6da00c07af59b0d442068f4d">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-mapper-asl-1.9.12_a0db81653ba408a97eac0df394b669bcf3274daf/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/android-studio/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_5a121535e94d585ba474c9da4af5bc693cda8835/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.facebook.fresco/webpsupport/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5738d4f839c9b7dc373bd019cb902a36a458a63d">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-webpsupport-0.11.0_8a97891e628f2a69ecbea80f6bb357151901353c/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_11cb18bdddf8746a9618d8f6028e4bc4c4d2229b/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_29c61ab5c0bd93e40360b97b829fe1019d1d1a2e/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-bosh/4.1.0-rc1/725e0452bc684f0c15484a9eef7c7c2f90e81134/smack-bosh-4.1.0-rc1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="725e0452bc684f0c15484a9eef7c7c2f90e81134">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-bosh-4.1.0-rc1_73144394b8d182662a3210d8a06c5d3675199eb9/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-extensions/4.1.0-rc1/1f00838d9acaf7f3f7ce15177c1a0ff3876defb2/smack-extensions-4.1.0-rc1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1f00838d9acaf7f3f7ce15177c1a0ff3876defb2">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-extensions-4.1.0-rc1_6f61b4769c35e3b9659f86fb39dd0da3c46490bd/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.11.0_66bcecef8d77b0127c9e104cff9a6c2f089cbdcd/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_292e8d351238d9781d5231888bb7c996443933df/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_fddc49c817c2d3e7b834a1539f05e0247fe41c86/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_ef579d35196b39bbb7fef608ce3ad67e2c19b518/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.12/ebe66a6b88caab31d7a19571ad23656377523545/snakeyaml-1.12.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ebe66a6b88caab31d7a19571ad23656377523545">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/snakeyaml-1.12_f36d82b1329cdaa5146cdae0f05aba63dad936ab/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_a19ac35dfa3a5a04f7d0dbd1871ac22dd17079d3/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.1.14/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ac23b2b3f31ea1312a60902210c110a667a02abe">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/pl.droidsonroids.gif-android-gif-drawable-1.1.14_a6f0ed591ed9561ec93e9a9d80b1580bf9adf752/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.15.0-rc/ab70279505f72c5501463ff6f4efcd1c70a72625/google-http-client-1.15.0-rc.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ab70279505f72c5501463ff6f4efcd1c70a72625">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.15.0-rc_01bfe577be8db4a30025b9e722f141951e4597dc/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-core/0.4.2-beta1/14ade1a89b0f6db4fa481f9f8a721cdec69374de/jxmpp-core-0.4.2-beta1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="14ade1a89b0f6db4fa481f9f8a721cdec69374de">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/jxmpp-core-0.4.2-beta1_295f637594ed900e3b8418333104870177985500/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9d27288be21a82e0f856c04ac94f6843d6d4bf59">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0ef99aea869381372cda4aeacb80f9dd604f6a35/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/com.factual/factual-java-driver/1.8.9-android/802536443ac4a6b980fc51ad4a2901ca9787c301/factual-java-driver-1.8.9-android.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="802536443ac4a6b980fc51ad4a2901ca9787c301">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/factual-java-driver-1.8.9-android_165f8d1f750508e23d50809bebf5450284fcda7d/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.11.0_0751d7818864eb95b741b0bf09b024222d66774a/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-1.3.9_5a5248907955e7a6c0a31b7c12609db997f46f67/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-im/4.1.0-rc1/d83286c7f0d488b2bd720c72a2684bdc97d527e7/smack-im-4.1.0-rc1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d83286c7f0d488b2bd720c72a2684bdc97d527e7">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-im-4.1.0-rc1_7ea77d7ed1c1c1c7edd6c6a8ea41776a11313656/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-util-cache/0.4.2-beta1/43e2a81f52600639daeb02ede60cc498a13614a5/jxmpp-util-cache-0.4.2-beta1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="43e2a81f52600639daeb02ede60cc498a13614a5">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/jxmpp-util-cache-0.4.2-beta1_a4ece565cfd13aee6e4fe8aef51cdd11c976e727/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_698bf9ff610ff5e8587b328c01685f0c75517394/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.11.0_86a6a0be00b906db0420cfacccc48f697dd5b042/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.igniterealtime.jbosh/jbosh/0.8.0/a99cba02dc7aba256001e5d74c15d73bcc87fc14/jbosh-0.8.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a99cba02dc7aba256001e5d74c15d73bcc87fc14">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/jbosh-0.8.0_0cfb2723e309f13fbd9c2cac7085537478621443/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_af600fb954e0ff882c897007c0bdb2d3e36f8f44/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_5462feb4b6961a9ecdc522e8a5419e866bc92ef9/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.15.0-rc/490b8d24391d94dafaeb21bc5d51741231d2bd43/google-oauth-client-1.15.0-rc.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="490b8d24391d94dafaeb21bc5d51741231d2bd43">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.15.0-rc_d4b7f0e8501bb4fb91c68faede5094418bf68895/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.15.0-rc/52194b4bd5137be8a10f6ccb224c73a7bc4d4737/google-api-client-1.15.0-rc.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="52194b4bd5137be8a10f6ccb224c73a7bc4d4737">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.15.0-rc_7f318ebf4233fed11d04192bb94a5782a308cd14/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e9a22eac0549977e66e4919515031339e4e437fb">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fed21c92ceeee961e4bd9fa920cbf3b36665016b/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_5a5aa82d7becaf99cb409599a83b37222938356c/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_1c988a8a25ec01f4c0c7dc95bdd0c36e9d1b7467/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.5/686c608d1805b6d4d425ec4459e88164ffc85870/gson-2.5.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.5_5fbff3e04320d4374ee622fe6e039bfa29aaabcf/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-android/4.1.0-rc1/74e80e0ab71015a7034068b045169a564a4797ee/smack-android-4.1.0-rc1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="74e80e0ab71015a7034068b045169a564a4797ee">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-android-4.1.0-rc1_1d0fb5eaffac7b0405b149ac81ec45a27961aa54/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-provided/4.1.0-rc1/33daa3259b803626b79d2d7d893365991b8c4e6f/smack-sasl-provided-4.1.0-rc1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="33daa3259b803626b79d2d7d893365991b8c4e6f">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-sasl-provided-4.1.0-rc1_fe63f9ff4598cd4c6f7a39fdab8749883d1c3d1f/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_e21799e1cdde176629c44e312b0996a4c467f792/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_f92e418b4e804cfa9b44ce7ce1b5e6b9b01970b6/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-tcp/4.1.0-rc1/7bee23e03e7adefe994bf751dea43119a9bfe6cb/smack-tcp-4.1.0-rc1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7bee23e03e7adefe994bf751dea43119a9bfe6cb">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-tcp-4.1.0-rc1_480d702e7c00b2c2570235acbc3d54e28ec28b03/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.1_283327a327cb2093aeed882097e3907f389a2d46/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_0f70a59c88d7cc883638533d88cf6630cb8b1759/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_4077a400074a1e785a20ae9c5161d707da4239de/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-minidns/4.1.0-rc1/74328debb0a7f2d74f6b8f0ee904e6ba9ae51161/smack-resolver-minidns-4.1.0-rc1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="74328debb0a7f2d74f6b8f0ee904e6ba9ae51161">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-resolver-minidns-4.1.0-rc1_a2bced5df2f7fa27d87ad6d8ec9f134b4ea1ced9/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_33c02effa5584a41a9f2fef61f84b5f8c80adb12/classes.dex" />
+    </item>
+    <item
+        jar="/home/mobi27/.gradle/caches/modules-2/files-2.1/de.measite.minidns/minidns/0.1.7/993582d1455b93a5723d2af4b39d8679735b3550/minidns-0.1.7.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="/home/mobi27/Desktop/QtAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/minidns-0.1.7_5bf646dff0e437c323ca84cf4bcf07535a0db470/classes.dex" />
+    </item>
+
+</items>
